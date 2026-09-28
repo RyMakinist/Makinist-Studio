@@ -1,6 +1,5 @@
 # Makinist-Studio
-Makinist Studio is a Windows IDE and 2D/3D game engine powered by the Makinist RY programming language. Kopyala
-# Makinist Studio — Kullanım Mantığı ve Çalışma Yapısı
+Makinist Studio is a Windows IDE and 2D/3D game engine powered by the Makinist RY programming language. 
 
 ## 1. Makinist Studio nedir?
 
@@ -1139,4 +1138,4 @@ API renderer değildir.
 
 Her katman kendi işini yapar.
 
-Makinist'in büyürken korunması gereken en önemli yapı budur.
+
